@@ -23,14 +23,14 @@ repository               : "sihanzhai/sihanzhai.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.JPG"
+  avatar           : "profile.png"
   name             : "Sihan Zhai"
   pronouns         : "he/him"  
   bio              : "Researching Technology on Platforms"
-  location         : "Boston, MA, USA"
+  location         : "New York, NY, USA"
   # employer         : "Red Brick University"
   uri              : # URL
-  email            : "szhai@hbs.edu" 
+  email            : "sihan.zhai@stern.nyu.edu" 
 
   # # Academic websites
   # academia         : # URL
