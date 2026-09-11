@@ -11,5 +11,6 @@ main:
   - title: "Research"
     url: /
 
-  - title: "Training and Coursework"
-    url: /training/
+  # Temporarily hidden; page source kept in _pages/training.html
+  # - title: "Training and Coursework"
+  #   url: /training/
